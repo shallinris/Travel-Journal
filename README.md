@@ -1,4 +1,4 @@
 # Travel-Journal
 Scrimba solo project - react travel journal
 
-<img width="653" alt="Screen Shot 2022-08-16 at 10 35 47 AM" src="https://user-images.githubusercontent.com/17973126/184943311-b8fe4d28-2518-4b48-930a-0f77f3b83d06.png">
+<img width="563" alt="Screen Shot 2022-08-20 at 9 48 48 PM" src="https://user-images.githubusercontent.com/17973126/185776109-4fea844e-dd21-4104-8a8f-77c5e66012e7.png">
